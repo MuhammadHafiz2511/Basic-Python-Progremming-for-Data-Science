@@ -1,1 +1,1 @@
-# Basic-Python-Progremming-for-Data-Science
+# Basic-Python-Programming-for-Data-Science
